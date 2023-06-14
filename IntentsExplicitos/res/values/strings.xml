@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentsExplicitos</string>
+    <string name="aW">ACCEDER A WEB</string>
+    <string name="lT">LLAMAR TELEFONO</string>
+    <string name="aU">Acceder a Ubicación</string>
+    <string name="tF">TOMAR FOTO</string>
+    <string name="pC">PONER EVENTO EN EL CALENDARIO</string>
+</resources>
