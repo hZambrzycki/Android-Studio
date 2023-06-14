@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RAW</string>
+    <string name="info">Departamento de Informatica</string>
+    <string name="venta">Departamento de Ventas</string>
+    <string name="rrhh">Departamento de Recursos Humanos</string>
+</resources>
