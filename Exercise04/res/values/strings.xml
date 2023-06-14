@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroEmpleados</string>
+
+
+    <string name="rbtn_Infor">Dpto Infor</string>
+    <string name="rbtn_Venta">Dpto Venta</string>
+    <string name="rbtn_RH">Dpto RH</string>
+</resources>
