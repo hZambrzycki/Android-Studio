@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">ImagaOddTxtExamen</string>
+    <string name="Title">Select the odd image and introduce a word wich identify the rest of them</string>
+    <string name="clue">CLUE</string>
+    <string name="send">SEND</string>
+    <string name="write">Write here. . .</string>
+</resources>
