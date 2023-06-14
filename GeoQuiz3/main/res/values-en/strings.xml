@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="pregunta1">¿What is the city of the picture?</string>
+    <string name="p1_madrid">Madrid</string>
+    <string name="p1_londres">Londres</string>
+    <string name="p1_paris">París</string>
+    <string name="pregunta2">¿What is the river of Londres?</string>
+    <string name="p2_sena">Sena</string>
+    <string name="p2_manzanares">Manzanares</string>
+    <string name="p2_tamesis">Támesis</string>
+    <string name="pregunta3">¿What is the highest mountain in Africa?</string>
+    <string name="p3_everest">Everest</string>
+    <string name="p3_teide">Teide</string>
+    <string name="p3_kilimanjaro">Kilimanjaro</string>
+    <string name="p1_imagenDescripción">City </string>
+    <string name="p2_imagenDescripción">River</string>
+    <string name="p3_imagenDescripción">Mountain</string>
+    <string name="acierto">¡Has acertado! Pulsa sobre la imagen para pasar a la siguiente pregunta</string>
+    <string name="fallado">¡Has fallado! Pulsa sobre la imagen para pasar a la siguiente pregunta</string>
+    <string name="ultimaPregunta">¡Has alcanzado la última pregunta! No hay más preguntas</string>
+</resources>
