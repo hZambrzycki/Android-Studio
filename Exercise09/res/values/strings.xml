@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">ImagaOddTxtExamen</string>
+    <string name="Title">Select the odd image and introduce a word wich identify the rest of them</string>
+    <string name="clue">CLUE</string>
+    <string name="send">SEND</string>
+    <string name="write">Write here. . .</string>
+    <string name="revolver">Es un tipo de pistola con tambor de 6 balas</string>
+    <string name="programacion">Se puede desarrollar software con ellos</string>
+    <string name="paises">Conjunto de ciudades</string>
+</resources>
