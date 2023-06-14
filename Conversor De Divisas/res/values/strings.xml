@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor de Divisas</string>
+    <string name="IntroduceEuros">Introduce la cantidad de Euros</string>
+    <string name="USD">USD</string>
+    <string name="JPY">JPY</string>
+    <string name="GBP">GBP</string>
+    <string name="Resultado">Resultado</string>
+</resources>
