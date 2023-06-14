@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExamenRecuperacionHubertZambrzycki</string>
+    <string name="puntuacion">PUNTUACION</string>
+    <string name="presentacion">ADIVINA EL GRUPO MUSICAL O CANTANTE QUE PUBLICÓ EL SIGUIENTE DISCO</string>
+    <string name="instrucciones">Pulsa el botón con la respuesta correcta</string>
+    <string name="john" translatable="false">A. JOHN LENNON</string>
+    <string name="bruce" translatable="false">B. BRUCE SPRINGSTEEN</string>
+    <string name="charlie" translatable="false">C. RAY CHARLES</string>
+    <string name="pink" translatable="false">A. PINK FLOYD</string>
+    <string name="kiss" translatable="false">B. KISS</string>
+    <string name="abba" translatable="false">C. ABBA</string>
+    <string name="offspring" translatable="false">A. OFFSPRING</string>
+    <string name="foo" translatable="false">B. FOO FIGTHERS</string>
+    <string name="nirvana" translatable="false">C. NIRVANA</string>
+    <string name="correcta">¡RESPUESTA CORRECTA!</string>
+    <string name="incorrecta">¡RESPUESTA INCORRECTA!</string>
+    <string name="last">Ultima pantalla</string>
+</resources>
