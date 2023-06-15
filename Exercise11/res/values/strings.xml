@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen1EVA</string>
+    <string name="ayuda">AYUDA</string>
+    <string name="alegria">ALEGRIA</string>
+    <string name="dormir">DORMIR</string>
+    <string name="comer">COMER</string>
+    <string name="jugar">JUGAR</string>
+    <string name="amistad">AMISTAD</string>
+    <string name="amor">AMOR</string>
+    <string name="letraIncorrecta">Lo siento. La letra es incorrecta</string>
+    <string name="loSiento">Lo siento. Has perdido</string>
+    <string name="enhorabuena">¡Enhorabuena! Has acertado con</string>
+    <string name="intentos">intentos fallidos</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1EVAEXAM</string>
+    <string name="ayuda">HELP</string>
+    <string name="alegria">HAPPINESS</string>
+    <string name="dormir">DREAM</string>
+    <string name="comer">EAT</string>
+    <string name="jugar">PLAY</string>
+    <string name="amistad">FRIENDLY</string>
+    <string name="amor">LOVE</string>
+    <string name="letraIncorrecta">I am sorry. The letter is not right</string>
+    <string name="loSiento">I am sorry. You have lost</string>
+    <string name="enhorabuena">Congratulations. You have won with </string>
+    <string name="intentos">fail intents</string>
+</resources>
